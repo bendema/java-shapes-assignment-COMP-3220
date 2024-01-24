@@ -1,7 +1,7 @@
 # java-shapes-assignment-COMP-3220
 
 # Overview
-This repository contains a Java assignment on shapesfor the COMP-3220 course.
+This repository contains a Java assignment on shapes for the COMP-3220 course.
 
 ## Project Description
 
